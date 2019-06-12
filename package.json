@@ -22,7 +22,7 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "prop-types": "^15.7.2",
+    "prop-types": "*",
     "react-native-vector-icons": "^6.5.0"
   },
   "devDependencies": {
