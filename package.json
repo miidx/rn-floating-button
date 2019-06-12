@@ -1,5 +1,5 @@
 {
-  "name": "rn-simple-floating-button",
+  "name": "@miidx/rn-floating-button",
   "version": "1.0.0",
   "description": "Simple floating button for React Native",
   "main": "index.js",
