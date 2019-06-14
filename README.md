@@ -22,5 +22,5 @@
  onPress        | Callback when the component is pressed      | function | yes       |           
  right          | Spacing from right screen edge              | number   |           | 10          
  bottom         | Spacing from bottom screen edge             | number   |           | if `iphoneX` 80, otherwise 40          
- buttonColor    | Color of the button                         | string   |           | #00f          
- iconColor      | Color of the button icon                    | string   |           | #fff          
+ buttonColor    | Color of the button                         | string   |           | `#00f`          
+ iconColor      | Color of the button icon                    | string   |           | `#fff`          
