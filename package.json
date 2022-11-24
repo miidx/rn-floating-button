@@ -23,7 +23,7 @@
     "react": "*",
     "react-native": "*",
     "prop-types": "*",
-    "react-native-vector-icons": "^6.5.0"
+    "react-native-vector-icons": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
