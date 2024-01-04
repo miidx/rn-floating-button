@@ -1,6 +1,6 @@
 {
   "name": "@miidx/rn-floating-button",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple floating button for React Native",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "react": "*",
     "react-native": "*",
     "prop-types": "*",
-    "react-native-vector-icons": "^6.5.0"
+    "react-native-vector-icons": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
